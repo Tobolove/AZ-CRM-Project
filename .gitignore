@@ -1,0 +1,19 @@
+# PYCACHE
+__pycache__/
+*.pyc
+*.pyo
+
+# VENVS
+venv/
+.venv/
+env/
+
+# SESSIONS
+flask_session/
+
+# OS EDITORS
+.vscode/
+.DS_Store
+
+# Azure CLI local
+.azure/
